@@ -249,12 +249,11 @@ business-operations-financial-analytics/
 |
 ├── power_bi/
 │   ├── business_operations_dashboard.md
-│   └── screenshots/
-│       ├── sales_performance.png
-│       ├── procurement_performance.png
-│       ├── accounts_payable.png
-│       ├── budget_performance.png
-│       └── inventory_product_performance.png
+│   ├── sales_performance.png
+│   ├── procurement_performance.png
+│   ├── accounts_payable.png
+│   ├── budget_performance.png
+│   └── inventory_and_product_performance.png
 │
 ├── documentation/
 |   ├── 01_data_overview.md
