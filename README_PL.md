@@ -248,7 +248,7 @@ business-operations-financial-analytics/
 |   └── 09_budget_and_financial_analysis.sql
 |
 ├── power_bi/
-│   ├── business_operations_analytics.pbix
+│   ├── business_operations_dashboard.md
 │   └── screenshots/
 │       ├── sales_performance.png
 │       ├── procurement_performance.png
