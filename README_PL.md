@@ -1,4 +1,4 @@
-# Kompleksowa analityka finansowa i operacyjna przedsiębiorstwa
+# Kompleksowa analiza finansowa i operacyjna przedsiębiorstwa
 
 ## Opis projektu
 
